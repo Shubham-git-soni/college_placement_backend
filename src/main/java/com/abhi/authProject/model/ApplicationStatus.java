@@ -1,6 +1,8 @@
 package com.abhi.authProject.model;
 
 
+
+
 public enum ApplicationStatus {
     PENDING,        // Initial status when student applies
     ACCEPTED,       // HR has reviewed and accepted the application

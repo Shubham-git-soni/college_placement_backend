@@ -9,6 +9,7 @@ import java.util.List;
 @Service
 public class JobService {
 
+    
     private final JobDetailsRepo repo;
 
     public JobService(JobDetailsRepo repo) {

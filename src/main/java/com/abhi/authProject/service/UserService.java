@@ -11,6 +11,7 @@ import org.springframework.security.core.Authentication;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;
 
+
 import java.time.LocalDateTime;
 import java.util.Optional;
 import java.util.Random; // For generating OTP

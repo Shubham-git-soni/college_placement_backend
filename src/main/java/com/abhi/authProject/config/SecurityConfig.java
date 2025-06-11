@@ -1,5 +1,6 @@
 package com.abhi.authProject.config;
 
+
 import com.abhi.authProject.Jwt.JwtFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

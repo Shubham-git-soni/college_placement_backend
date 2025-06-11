@@ -1,5 +1,6 @@
 package com.abhi.authProject.controller;
 
+
 // src/main/java/com/yourcompany/placementportal/controller/BookingController.java
 
 import com.abhi.authProject.service.EmailService;

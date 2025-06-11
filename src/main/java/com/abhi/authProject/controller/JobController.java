@@ -1,5 +1,6 @@
 package com.abhi.authProject.controller;
 
+
 import com.abhi.authProject.model.JobDetails;
 import com.abhi.authProject.service.JobService;
 import org.springframework.beans.factory.annotation.Autowired;
