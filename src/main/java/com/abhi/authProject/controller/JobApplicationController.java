@@ -1,6 +1,7 @@
 package com.abhi.authProject.controller;
 
 
+
 import com.abhi.authProject.model.JobApplicationRequest1;
 import com.abhi.authProject.model.ApplicationStatus; // New import
 import com.abhi.authProject.model.JobApplication; // New import

@@ -1,6 +1,7 @@
 package com.abhi.authProject.repo; // Consistent with your UserRepo package
 
 
+
 import com.abhi.authProject.model.Paper;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

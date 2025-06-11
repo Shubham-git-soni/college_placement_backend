@@ -39,6 +39,7 @@ public class EmailService {
     }
 
     
+
     // Your existing methods remain the same:
     public void sendBookingNotification(String studentName, String studentEmail,
                                         String rollNumber, String phoneNumber,

@@ -4,12 +4,13 @@ import com.abhi.authProject.model.JobDetails;
 import com.abhi.authProject.repo.JobDetailsRepo;
 import org.springframework.stereotype.Service;
 
+
 import java.util.List;
 
 @Service
 public class JobService {
 
-    
+
     private final JobDetailsRepo repo;
 
     public JobService(JobDetailsRepo repo) {

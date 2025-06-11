@@ -1,6 +1,7 @@
 package com.abhi.authProject.repo;
 
 
+
 import com.abhi.authProject.model.JobApplication;
 import com.abhi.authProject.model.ApplicationStatus;
 import org.springframework.data.jpa.repository.JpaRepository;

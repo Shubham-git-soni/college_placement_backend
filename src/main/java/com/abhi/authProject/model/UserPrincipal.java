@@ -8,6 +8,7 @@ import java.util.Collection;
 import java.util.List;
 
 
+
 public class UserPrincipal implements UserDetails {
 
     private Users user;

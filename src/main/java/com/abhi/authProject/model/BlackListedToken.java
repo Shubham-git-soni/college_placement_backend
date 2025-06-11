@@ -2,6 +2,7 @@ package com.abhi.authProject.model;
 
 
 
+
 import java.util.Date;
 
 import jakarta.persistence.Entity;
